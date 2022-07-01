@@ -1,0 +1,14 @@
+adafruit-python-shell
+adafruit-circuitpython-dht
+adafruit-circuitpython-pca9685
+adafruit-circuitpython-servokit
+psutil==5.9.0
+opencv-contrib-python==4.1.0.25
+numpy==1.22.3
+SpeechRecognition==3.8.1
+pydub==0.25.1
+pygame==2.1.2
+simpleaudio
+ffmpeg-python==0.2.0
+sounddevice==0.4.4
+scipy==1.8.0
