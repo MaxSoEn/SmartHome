@@ -35,7 +35,7 @@
 		sudo pip3 install numpy
 		sudo pip3 install opencv-contrib-python
 	# if the above doesn't work try
-		sduo pip3 install opencv-contrib-python==4.1.0.25
+		sudo pip3 install opencv-contrib-python==4.1.0.25
 	# or
 		sudo apt-get install python-opencv
 # for voice
